@@ -19,6 +19,8 @@ Else:
 import operator
 from math import log
 import decisionTreePlot as dtPlot
+# 根据以下 2 个特征，将动物分成两类：鱼类和非鱼类。
+# 特征： 1. 不浮出水面是否可以生存 2. 是否有脚蹼
 
 
 # 收集数据：可以使用任何方法
